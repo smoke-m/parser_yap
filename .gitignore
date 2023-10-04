@@ -164,3 +164,4 @@ MY_README.md
 .gitignore
 http_cache.sqlite
 results
+logs
